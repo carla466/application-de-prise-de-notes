@@ -81,6 +81,6 @@ note-taking-app
 
 # Contributors
 
-Carla Zarour
-Paul Adams N'Guessan
-Cécilia Bordin
+Carla Zarour <br>
+Paul Adams N'Guessan <br>
+Cécilia Bordin <br>
