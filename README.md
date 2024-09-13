@@ -81,4 +81,6 @@ note-taking-app
 
 # Contributors
 
-Yann ADJUMANY
+Carla Zarour
+Paul Adams N'Guessan
+Cécilia Bordin
